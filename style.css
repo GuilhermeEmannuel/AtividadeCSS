@@ -1,27 +1,31 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 #cabecalhoPrincipal h1, #cabecalhoPrincipal nav{
     text-align: center;
+    color: white;
 }
 
 #cabecalhoPrincipal{
     background-color: rgb(80,197,155);
-    font-family: Arial, Helvetica, sans-serif;
-    padding-bottom: 15px;
+    padding: 20px;
 }
 
 body, #cabecalhoPrincipal h1{
     margin: 0;
 }
 
+#cabecalhoPrincipal h1{
+    margin-bottom: 10px;
+}
+
 a {
     text-decoration:none ;
     text-align: center;
     background-color: rgb(64, 128, 190);
-    font-family: Arial, Helvetica, sans-serif;
-    color:white;
-    padding: 24px;
-    padding-top: 1px;
-    padding-bottom: 6px;
-    height: 60px;
+    color: inherit;
+    padding: 5px 20px 5px 20px;
 }
 
 
