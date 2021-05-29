@@ -1,0 +1,27 @@
+#cabecalhoPrincipal h1, #cabecalhoPrincipal nav{
+    text-align: center;
+}
+
+#cabecalhoPrincipal{
+    background-color: rgb(80,197,155);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 15px;
+}
+
+body, #cabecalhoPrincipal h1{
+    margin: 0;
+}
+
+a {
+    text-decoration:none ;
+    text-align: center;
+    background-color: rgb(64, 128, 190);
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    padding: 24px;
+    padding-top: 1px;
+    padding-bottom: 6px;
+    height: 60px;
+}
+
+
