@@ -29,7 +29,7 @@ a {
 }
 
 p{
-    padding-left: 5%;
-    padding-right: 5%;
     background-color: rgb(224, 224, 224);
+    margin-left: 5%;
+    margin-right: 5%;
 }
